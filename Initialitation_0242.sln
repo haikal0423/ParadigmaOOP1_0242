@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Initialitation_0242", "Init
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "composisi", "Jantung\Jantung.vcxproj", "{4E7A0523-5DB3-4D8B-BB36-C567A8ADAACF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agregasi", "Agregasi\Agregasi.vcxproj", "{3FE220A9-F36B-4E5B-8BD8-63E4C3670E67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{4E7A0523-5DB3-4D8B-BB36-C567A8ADAACF}.Release|x64.Build.0 = Release|x64
 		{4E7A0523-5DB3-4D8B-BB36-C567A8ADAACF}.Release|x86.ActiveCfg = Release|Win32
 		{4E7A0523-5DB3-4D8B-BB36-C567A8ADAACF}.Release|x86.Build.0 = Release|Win32
+		{3FE220A9-F36B-4E5B-8BD8-63E4C3670E67}.Debug|x64.ActiveCfg = Debug|x64
+		{3FE220A9-F36B-4E5B-8BD8-63E4C3670E67}.Debug|x64.Build.0 = Debug|x64
+		{3FE220A9-F36B-4E5B-8BD8-63E4C3670E67}.Debug|x86.ActiveCfg = Debug|Win32
+		{3FE220A9-F36B-4E5B-8BD8-63E4C3670E67}.Debug|x86.Build.0 = Debug|Win32
+		{3FE220A9-F36B-4E5B-8BD8-63E4C3670E67}.Release|x64.ActiveCfg = Release|x64
+		{3FE220A9-F36B-4E5B-8BD8-63E4C3670E67}.Release|x64.Build.0 = Release|x64
+		{3FE220A9-F36B-4E5B-8BD8-63E4C3670E67}.Release|x86.ActiveCfg = Release|Win32
+		{3FE220A9-F36B-4E5B-8BD8-63E4C3670E67}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
